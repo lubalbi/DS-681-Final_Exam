@@ -1,8 +1,8 @@
 # DS681 Final Exam — REINFORCE Character-Level LM
 
-Final exam submission for DS681 (CV / AI-ML, Spring 2026). Implements the REINFORCE policy-gradient algorithm from scratch and applies it to a tiny autoregressive character-level language model that has to learn to emit sequences containing the substring `"abc"`.
+Final exam submission for DS681 (Deep Learning for Computer Vision, Spring 2026). Implements the REINFORCE policy-gradient algorithm from scratch and applies it to a tiny autoregressive character-level language model that has to learn to emit sequences containing the substring `"abc"`.
 
-**Author:** Lucas Tarani
+**Author:** Lucas Balbi
 
 ## Problem
 
